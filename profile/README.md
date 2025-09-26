@@ -1,6 +1,18 @@
 <h1 align="center">💡 캡스Lock</h1>
 <p align="center"><em>수익을 Capture하고, 리스크를 Lock하다.</em></p>
 
+<p align="center">
+  <img src="assets/capslock_banner.png" alt="Team 캡스Lock Banner" width="820">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-Vue-4FC08D?logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend-FastAPI-009688?logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data-Pandas-150458?logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data-NumPy-013243?logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/DB-PostgreSQL-336791?logo=postgresql&logoColor=white" />
+</p>
+
 ---
 
 ## 👥 1. 팀 소개
@@ -9,13 +21,13 @@
 **캡스Lock**
 
 ### Teammates
-- 20212020 박민준 (팀장)
-- 20212022 이예준
-- 20192136 이윤기
+- 20212020 박민준 (팀장)  
+- 20212022 이예준  
+- 20192136 이윤기  
 
 ### 1-2. 지도교수 및 멘토
 - 지도교수: **정영민 교수님** (서강대학교)  
-- 멘토: (추후 업데이트)
+- 멘토: (추후 업데이트)  
 
 ---
 
