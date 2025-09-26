@@ -58,11 +58,11 @@
 ### 3-2. 설치 & 실행
 ```bash
 # 1. 백엔드 (FastAPI) 실행
-clone https://github.com/Capstone-Design2/Backend.git
+git clone https://github.com/Capstone-Design2/Backend.git
 (추후 갱신)
 
 # 2. 프론트엔드 (Vue) 실행
-clone https://github.com/Capstone-Design2/Frontend.git
+git clone https://github.com/Capstone-Design2/Frontend.git
 (추후 갱신)
 ```
 
