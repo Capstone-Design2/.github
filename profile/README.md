@@ -53,9 +53,7 @@
 ## ⚡ 3. Quick Start
 
 ### 3-1. 사전 요구사항
-- Python 3.10+  
-- Node.js 18+  
-- PostgreSQL 설치 및 실행
+(추후 갱신)
 
 ### 3-2. 설치 & 실행
 ```bash
@@ -68,6 +66,8 @@ cd project
 
 # 3. 프론트엔드 (Vue) 실행
 (추후 갱신)
+```
+
 ---
 
 <p align="center">
