@@ -57,14 +57,12 @@
 
 ### 3-2. 설치 & 실행
 ```bash
-# 1. 레포지토리 클론
-git clone https://github.com/team-capslock/project.git
-cd project
-
-# 2. 백엔드 (FastAPI) 실행
+# 1. 백엔드 (FastAPI) 실행
+clone https://github.com/Capstone-Design2/Backend.git
 (추후 갱신)
 
-# 3. 프론트엔드 (Vue) 실행
+# 2. 프론트엔드 (Vue) 실행
+clone https://github.com/Capstone-Design2/Frontend.git
 (추후 갱신)
 ```
 
